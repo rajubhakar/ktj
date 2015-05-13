@@ -1,0 +1,155 @@
+#profile
+{
+	top:-10px;
+	position:absolute;
+	background-color:white;
+	width:59%;
+	height:1000px;
+	left:300px;
+	border-radius:15px;
+
+}
+#profile #upside
+{
+	position:relative;
+	width:95%;
+	height:200px;
+	border-radius:12px;
+	z-index:0;
+}
+#navbar
+{
+	position:relative;
+	width:95%;
+	background-color:#333;
+	text-align:center;
+	border-bottom-left-radius:12px;
+	border-bottom-right-radius:12px;
+	height:50px;	
+	top:-50px;
+	left:-2px;
+	display:inline-block;	
+}
+#nav1
+{
+	text-align:center;
+	display:inline-block;
+	width:150px;
+	float:left;
+	line-height:50px;
+	top:-16px;
+	left:-40px;
+	border-bottom-left-radius:12px;
+	
+}
+#nav2
+
+{
+	text-align:center;
+	display:inline-block;
+	width:150px;
+	float:left;
+	background-color:green;
+	line-height:50px;
+	top:-16px;
+	left:-39px;
+	
+}
+#nav3
+{
+	text-align:center;
+	display:inline-block;
+	width:150px;
+	float:left;
+	line-height:50px;
+	top:-16px;
+	left:-39px;
+	
+}
+#nav4
+
+{
+	text-align:center;
+	display:inline-block;
+	width:150px;
+	float:left;
+	line-height:50px;
+	top:-16px;
+	left:-39px;
+	
+}
+#nav5
+{
+	text-align:center;
+	display:inline-block;
+	width:150px;
+	float:left;
+	line-height:50px;
+	top:-66px;
+	left:566px;
+	border-bottom-right-radius:12px;
+}
+#navbar a
+{
+	position:relative;
+	text-decoration:none;
+	color:white;
+}
+#navbar a:active
+{
+	color:white;
+}
+a:link {color:#404040;}
+a:visited {color:white;background-color:white;}
+a:hover {color:white;background-color:red;}
+a:active {color:white;background-color:green;}
+#profile #prof{
+	width:250px;
+	height:300px;
+	position:relative;
+	left:-260px;
+	top:0px;
+	border-color:black;
+	border:solid;
+	border-width:2px;
+	border-radius:7px;
+}
+#profile #welcome
+{
+	position:relative;
+	top:-50px;
+	alignment-adjust:central;
+	color:blue;
+	z-index:10000;
+}
+#profile #welcome span
+{
+	color:red;
+}
+
+#quotes
+{
+	position:relative;
+	top:-30px;
+	left:20px;
+	text-align:justify;
+}
+#quotes h3
+{
+	position:relative;
+	color:blue;
+	font-size:20px;
+	text-align:center;
+	left:-20px;
+}
+#yetto
+{
+	position:relative;
+	color:red;
+	font-size:22px;
+}
+
+#yetto span
+{
+	color:blue;
+}
